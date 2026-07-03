@@ -52,9 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mssujoykumar566-boop&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssujoykumar566-boop&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 ## 📊 GitHub Analytics
