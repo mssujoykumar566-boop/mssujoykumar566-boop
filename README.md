@@ -81,7 +81,7 @@
 
 - 📧 Email: mssujoykumar566@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/laxman-kumar-sujoy
-- 🌐 Portfolio: my-portfolio-pied-gamma-35.vercel.app
+- 🌐 Portfolio:https://my-portfolio-pied-gamma-35.vercel.app
 
 ---
 
