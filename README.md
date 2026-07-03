@@ -7,7 +7,19 @@
 </p>
 
 <p align="center">
-  👨‍💻 Full Stack Developer | MERN Stack | React • Node • MongoDB  
+  👨‍💻 **Full Stack Web Developer** | Specialized in MERN Stack & Modern Web Ecosystems | Crafting Scalable, High-Performance Web Applications & Seamless User Experiences
+</p>
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/dulalahmed2026/](https://www.linkedin.com/in/laxman-kumar-sujoy/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://my-portfolio-pied-gamma-35.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+ <a href="mailto:mssujoykumar566@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
 
 ---
