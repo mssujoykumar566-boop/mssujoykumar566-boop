@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mssujoykumar566-boop/mssujoykumar566-boop/main/banner/banner.png" width="100%" />
 </p>
-<p align="center">
-Hi 👋, I'm Laxman Kumer Halder
-</p>
+<h1 align="center">Hi 👋, I'm Laxman Kumer Halder</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications" />
