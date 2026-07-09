@@ -37,6 +37,13 @@
 
 ---
 
+## 🌱 Current Activities
+
+- 🚀 Exploring Next.js App Router and BetterAuth
+- 💼 Building full-stack MERN applications
+- 📚 Solving JavaScript & LeetCode problems
+- 🌐 Improving backend architecture and scalable web development
+
 ## 🛠️ Tech Stack
 
 ### Frontend
