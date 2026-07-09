@@ -122,11 +122,7 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mssujoykumar566-boop&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mssujoykumar566-boop&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssujoykumar566-boop&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
   🚀 Consistently coding, learning, and building real-world applications.
@@ -138,6 +134,12 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mssujoykumar566-boop&show_icons=true&theme=tokyonight"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssujoykumar566-boop&layout=compact&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mssujoykumar566-boop&bg_color=121319&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=16263f&hide_border=false&border_color=30363d&title_color=58a6ff" width="100%" />
