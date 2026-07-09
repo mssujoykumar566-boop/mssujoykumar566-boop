@@ -54,11 +54,21 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 🔥 Consistent Contributions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mssujoykumar566-boop&theme=tokyonight" />
 </p>
+
+<p align="center">
+  🚀 Consistently coding, learning, and building modern web applications.
+  <br/>
+  💻 Passionate about improving my Full Stack Development skills through daily practice and real-world projects.
+</p>
+
+---
 
 ---
 ## 📊 GitHub Analytics
