@@ -146,7 +146,7 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
 
 - 📧 Email: mssujoykumar566@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/laxman-kumar-sujoy
-- 🌐 Portfolio: https://my-portfolio-pied-gamma-35.vercel.app
+- 🌐 Portfolio: https://sujoy-portfolio-nu.vercel.app/
 
 
 ---
