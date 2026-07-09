@@ -1,5 +1,6 @@
+```md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Laxman%20Halder&fontSize=50&fontColor=ffffff&subText=Full%20Stack%20Web%20Developer&subTextSize=20&subTextColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Laxman%20Sujoy&fontSize=50&fontColor=ffffff&subText=Full%20Stack%20Web%20Developer&subTextSize=20&subTextColor=ffffff" />
 </p>
 
 <p align="center">
@@ -7,7 +8,7 @@
 </p>
 
 <p align="center">
-  👨💻 Full Stack Web Developer | MERN Stack Specialist | Building scalable, high-performance web applications with modern technologies
+  👨‍💻 Full Stack Web Developer | MERN Stack Specialist | Building scalable, high-performance web applications with modern technologies
 </p>
 
 <p align="center">
@@ -36,13 +37,6 @@
 
 
 ---
-
-## 🌱 Current Activities
-
-- 🚀 Exploring Next.js App Router and BetterAuth
-- 💼 Building full-stack MERN applications
-- 📚 Solving JavaScript & LeetCode problems
-- 🌐 Improving backend architecture and scalable web development
 
 ## 🛠️ Tech Stack
 
@@ -74,44 +68,14 @@
 
 ## 🚀 Featured Projects
 
-### 💼 HireLoop - Job Portal Platform
+### 💼 HireLoop
+A modern job portal platform connecting recruiters and job seekers with authentication, dashboards, and job management features.
 
-A full-stack job portal application where recruiters can post jobs and job seekers can explore opportunities. Includes authentication, role-based features, dashboards, and job management functionality.
-
-**Tech Stack:**  
-Next.js • React • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
-
-🔗 Live Demo: Your Live Link  
-📂 Frontend: https://github.com/mssujoykumar566-boop/hireloop-client.git
-📂 Backend: https://github.com/mssujoykumar566-boop/hireloop-server.git
-
-
----
-
-### 🏥 MediCare Connect - Healthcare Management System
-
-A modern healthcare platform that helps users find doctors, manage appointments, and provides role-based functionality with secure authentication.
-
-**Tech Stack:**  
-Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
-
-🔗 Live Demo: https://madicare-client.vercel.app/
-📂 Frontend: https://github.com/mssujoykumar566-boop/madicare-client.git
-📂 Backend: https://github.com/mssujoykumar566-boop/medicare-server.git
-
-
----
+### 🏥 MediCare Connect
+Healthcare management system with doctor listing, appointment features, authentication, and role-based functionality.
 
 ### 🐾 Pet Adoption Platform
-
-A full-stack pet adoption platform where users can browse pets, view details, and submit adoption requests with secure authentication and database management.
-
-**Tech Stack:**  
-Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
-
-🔗 Live Demo: https://pet-adoption-rouge-five.vercel.app/ 
-📂 Frontend: https://github.com/mssujoykumar566-boop/pet-adoption.git  
-📂 Backend: https://github.com/mssujoykumar566-boop/pet-adoption-server.git
+A MERN stack application for browsing pets, managing adoption requests, and user authentication.
 
 
 ---
@@ -121,6 +85,7 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mssujoykumar566-boop&theme=tokyonight" />
 </p>
+
 <p align="center">
   🚀 Consistently coding, learning, and building real-world applications.
   <br/>
@@ -131,12 +96,6 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mssujoykumar566-boop&show_icons=true&theme=tokyonight"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssujoykumar566-boop&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mssujoykumar566-boop&bg_color=121319&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=16263f&hide_border=false&border_color=30363d&title_color=58a6ff" width="100%" />
@@ -158,7 +117,7 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
 
 - 📧 Email: mssujoykumar566@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/laxman-kumar-sujoy
-- 🌐 Portfolio: https://sujoy-portfolio-nu.vercel.app/
+- 🌐 Portfolio: https://my-portfolio-pied-gamma-35.vercel.app
 
 
 ---
@@ -166,3 +125,4 @@ Next.js • Tailwind CSS • Node.js • Express.js • MongoDB • BetterAuth
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+```
