@@ -1,5 +1,4 @@
 <p align="center">
-  Hello i'am  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Laxman%20Halder&fontSize=50&fontColor=ffffff&subText=Full%20Stack%20Web%20Developer&subTextSize=20&subTextColor=ffffff" />
 </p>
 
